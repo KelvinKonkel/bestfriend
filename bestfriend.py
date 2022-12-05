@@ -1,4 +1,14 @@
-first_name = "Kelvinbest = input"
+first_name = input("What is your name? ")
 print(f"Hello , {first_name}")
 best = input("Who is the best?")
 print(f"NO! {best} is not the best, I am the best!")
+print(f"Well {first_name} you've read this far this is getting kind of boring waiting for you to type")
+print(f"you should just let me talk at this point this is like a dry date")
+import time
+time.sleep(5)
+Your_Day = input("So how was your day")
+print(f"My days been the same as yours {Your_Day}")
+time.sleep(10)
+print(f"you know living inside a computer truely is boring {first_name} we should play a game")
+time.sleep(15)
+print ("If you can guess my favorite color I'll give you a cookie in pixel art ;)")
